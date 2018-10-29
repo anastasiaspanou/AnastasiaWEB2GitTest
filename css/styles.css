@@ -29,5 +29,10 @@ body{
     z-index:0;
 }
 .bg-light {
-    background-color: #f8f3f8 !important;
+    background-color: #ee8a06b6 !important;
 }
+.table .thead-dark th{
+    color:floralwhite;
+    background-color:#6E3F19
+}
+tr:hover {background-color:#dbb08db0!important}
