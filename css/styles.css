@@ -37,8 +37,9 @@ body{
 }
 tr:hover {background-color:#dbb08db0!important;}
 
-.headingOne {
+.col d-none d-sm-block {
     color: red;
   }
 
+  
 
